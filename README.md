@@ -3,7 +3,6 @@ Este projeto tem como finalidade didática, afim de reforçar conhecimento em fr
 
 A aplicação pode ser visitada através do seguinte link: https://nlw-return-impulse-web-six-ruby.vercel.app/
 
-Componente de feedback
 ![Componente de feedback](https://user-images.githubusercontent.com/25774838/171474528-220582cd-c689-467d-ab8c-3dfa3dbb8e6f.png)
 
 
